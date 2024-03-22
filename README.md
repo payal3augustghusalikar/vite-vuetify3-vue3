@@ -1,2 +1,6 @@
-# vite-vuetify3-vue3
-This is test project to test vite + vuetify3+ vue3
+# Vue 3 + Vite
+This is test project
+
+1. In terminal 
+    npm install
+    npm run dev
